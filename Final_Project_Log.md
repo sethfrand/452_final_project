@@ -5,4 +5,5 @@
 | 11/19/2026 | added and edited tentative ERD and system design mockup | .5    |
 | 11/23/2026 | data cleaning and setting up Mongo | 2.75    |
 | 11/24/2026 | data cleaning | .75   |
-| **Total**  |                                           | **4.5** |
+| 11/25/2026 | setting up local agent | 1.5   |
+| **Total**  |                                           | **6** |
